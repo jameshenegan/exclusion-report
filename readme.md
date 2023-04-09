@@ -41,4 +41,5 @@ project_root/
 
 The `example-data.csv` contains data that was generated using a psuedo-random number generator.  It is not real data.
 
-![Exclusion Report Visualization](./visualizations/example-viz.png)
+<img src="./visualizations/example-viz.png" alt="Exclusion Report Visualization" width="600" height="400">
+
