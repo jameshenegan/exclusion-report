@@ -1,0 +1,13 @@
+boxNumber,lineNumber,lineContent
+0,0,Example synthetic data
+0,1,100 rows
+0,2,../data/input/example-data.csv
+1,0,Rows with a marital status not equal to 4
+1,1,74 rows
+1,2,remaining_0.csv
+2,0,Rows with a height less than or equal to 190
+2,1,69 rows
+2,2,remaining_1.csv
+3,0,Rows with a housing type not equal to 4 or 5
+3,1,43 rows
+3,2,remaining_2.csv

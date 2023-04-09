@@ -1,0 +1,4 @@
+number,function_name,label,label_for_exclusion_step,label_for_remaining_data_after_applying_exclusion,
+0,marital_status_equal_to_4,"Marital status equal to 4","Remove rows with a marital status equal to 4","Rows with a marital status not equal to 4"
+1,height_over_190,"Height over 190","Remove rows with a height over 190","Rows with a height less than or equal to 190"
+2,housing_type_4_or_5,"Housing Type equal to 4 or 5","Remove rows with a housing type of 4 or 5","Rows with a housing type not equal to 4 or 5"

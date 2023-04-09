@@ -1,0 +1,29 @@
+# .gitignore for macOS and Jupyter Notebooks
+
+# macOS temporary files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Jupyter Notebook temporary files and directories
+.ipynb_checkpoints
+.jupyter
+
+# Python temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyz[co]
+
+# Virtual environment files and directories
+venv/
+*.venv/
+*.virtualenv/
+*.pyenv/
+*.conda/
+
+# Log files
+*.log
+
