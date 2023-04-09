@@ -1,0 +1,10 @@
+,boxNumber,lineNumber,lineContent
+0,0,0,Remove rows with a marital status equal to 4
+1,0,1,26 rows
+2,0,2,excluded_0.csv
+3,1,0,Remove rows with a height over 190
+4,1,1,5 rows
+5,1,2,excluded_1.csv
+6,2,0,Remove rows with a housing type of 4 or 5
+7,2,1,26 rows
+8,2,2,excluded_2.csv
