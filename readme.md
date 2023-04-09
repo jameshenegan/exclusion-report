@@ -52,9 +52,4 @@ project_root/
 
 ## Note about the `example-data.csv`
 
-<<<<<<< HEAD
 The `example-data.csv` contains data that was generated using a psuedo-random number generator. It is not real data.
-=======
-The `example-data.csv` contains data that was generated using a psuedo-random number generator. It is not real data.
-
-> > > > > > > 1bee89fb76abb20df39f7e349b01699968e3eb4f
