@@ -2,6 +2,10 @@
 
 This project contains a Jupyter Notebook that processes a dataset by applying a series of exclusion criteria. The notebook reads input data and exclusion metadata from CSV files, processes the data using the specified exclusion criteria, and generates a visualization of the exclusion process. Additionally, the notebook creates CSV files containing metadata about the exclusion process.
 
+## Example Output
+
+<img src="./visualization/exclusion-report.png" alt="Exclusion Report Visualization" >
+
 ## Project Structure
 The project is organized into the following folder structure:
 
@@ -41,6 +45,6 @@ project_root/
 
 The `example-data.csv` contains data that was generated using a psuedo-random number generator.  It is not real data.
 
-<img src="./visualization/exclusion-report.png" alt="Exclusion Report Visualization" >
+
 
 
